@@ -3,4 +3,4 @@ matplotlib
 pandas
 openpyxl
 scipy
-sklearn
+scikit-learn
